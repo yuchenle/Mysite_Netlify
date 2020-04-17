@@ -50,6 +50,15 @@ subtitle = ""
  css_class = ""
 +++
 
+_There are only two tragedies in life: one is not getting what one wants, and the other is getting it._ -- *Oscar Wilde*
+
+
+
+
+
+I am a PhD student from UPC working at Barcelona Supercomputing Center, Barcelona, Spain. The idea of creating this page came during the confinement period of covid-2019, April, 2019. I show some of my research work, publications, and also other content that I want to share.
+ 
+My main research area includes OpenMP, CUDA in High Performance Computing. Concreatly, I am modifying the implementation of OpenMP in GCC compiler in order to enhance the performance of its tasking model. Furthermore, this new implementation may encourage the utilization of OpenMP in real-time embedded system as well. Work in progress ;)
 Welcome to the **Academic Kickstart** template!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
